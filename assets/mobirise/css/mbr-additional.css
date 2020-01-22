@@ -962,7 +962,7 @@ section.lazy-placeholder:after {
   padding: 0.667em 1.667em;
 }
 .cid-rN7fA42QzZ .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #000000;
+  background: white!important;
 }
 .cid-rN7fA42QzZ .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
